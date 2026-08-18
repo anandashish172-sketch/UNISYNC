@@ -1,24 +1,44 @@
-**INTEGRATED INSTITUTE MANAGEMENT AND COORDINATION SYSTEM (UniSyn)**
+**SpaceTime \- Smart Classroom Management System**
 
-Main Idea:  
-To create one system that connects different institute activities instead of treating each one separately.
+**The main aim:**  
+SpaceTime aims to provide a centralized system for managing timetables, classroom availability, class updates, and communication between students, faculty and administrators.
 
-Problem Statement:  
-\-Time waste due to mismanagement between class timings and bus timings.  
-\-Struggling to find study materials in one place.  
-\-Books, notes, PYQs and project ideas scattered across different platforms.  
-\-Sharing resources on Whatsapp or other platforms makes searching for them later on a bit difficult.  
-\-connecting college alumni become difficult for juniors since they have to search them on   
-Linkedin.  
-\-offline library management requires a lot of effort and time.
+**Real Life Problem:**
 
-Solution Features with respect to users:  
-\-real time update system of status of class whether it is cancelled,delayed or on time and accordingly rescheduling buses for students.  
-\-Students can search, access and share books, notes, PYQs and project ideas in one place.  
-\-System can provide class timetable and bus timing information in one place to reduce confusion and time wastage.  
-\-Notification and announcement can be shared in one place to make sure students receive important updates.  
-\-Different roles allotted to students, faculties and non-teaching staff.  
-\-platform to connect alumni.  
-\-digitalising library management system.  
-\-providing a read only page for others to know about the institute.
+* In our institute,students and faculties face difficulties in managing and accessing updated classroom and timetable information.  
+* Students might also not always know:  
+  \-Their next class and timings.  
+  \-The classroom where they need to go for a particular subject.  
+  \-Whether a classroom is currently or occupied.  
+  \-About changes in classrooms, cancelled classes, or other updates.  
+* Finding an empty classroom for activities such as:  
+  \-Group discussion		\-Project work	            	\-Self study  
+* Currently, classroom information may be distributed across various platforms and students and faculties might miss out this information creating confusion and time wastes.
 
+**Proposed solution:**
+
+* SpaceTime is proposed as a Smart Classroom Management System that provides a centralized platform for students, faculty and administrators.  
+* The system will allow **students** to:  
+  \-View their personal timetables.  
+  \-Receive notifications of the next class and where it is scheduled.  
+  \-Check classroom status(whether occupied or not using color system, its room capacity for the number of students)  
+  \-Class representative of every class having an authority to access to the special feature of being able to shift classroom allocated if any need and update to the platform (eg. class shift from room 9011 to 9101 if the room capacity was not enough)  
+  \-Class representatives can also request to book a room which will be sent to the scheduler.   
+  \-Receive class related notifications.  
+* The system will allow **faculty** to:  
+  \-View their timetable.  
+  \-Request classrooms.  
+  \-Get notification on which class to go next and how long the lecture would last.  
+* The system will allow **administrators**  to keep track of the issues faced and the changes that would be needed to be done (eg reasons for change of class be it class capacity too small or any repairments like wifi connection issues can be reached directly to them)  
+* The system can provide automatic notifications for:  
+  \-Upcoming classes.  
+  \-Classroom changes.  
+  \-Class cancellations.  
+  **TeamID 2:**  
+  Bhatt Pooja Jignesh  (20251501046)   
+  Aeshvi Kalathiya       (20251501014)  
+  Aayushi Bharoliya     (20251501045)  
+  Aaditya Verma	          (20251501013)  
+  Ashish Anand           (20251501031)  
+    
+  
