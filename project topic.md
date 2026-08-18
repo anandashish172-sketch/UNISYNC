@@ -1,4 +1,4 @@
-**SpaceTime \- Smart Classroom Management System**
+  **SpaceTime \- Smart Classroom Management System**
 
 **The main aim:**  
 SpaceTime aims to provide a centralized system for managing timetables, classroom availability, class updates, and communication between students, faculty and administrators.
